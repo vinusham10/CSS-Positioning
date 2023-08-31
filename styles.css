@@ -1,0 +1,27 @@
+.all{
+    background-color: rgb(237, 210, 176);
+}
+.p1{
+    background-color: aliceblue;
+    padding: 2px;
+    position: absolute;
+}
+.p2{
+    background-color: brown;
+    position: relative;
+    top: 48px;
+}
+.p3{
+    background-color: rgb(240, 253, 183);
+    position: static;
+    padding: 30px;
+}
+.p4{
+    background-color: rgb(191, 150, 230);
+    position: fixed;
+    top: 22px;
+    right: 8px;
+}
+body{
+    height: 1000px;
+}
